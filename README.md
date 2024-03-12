@@ -1,6 +1,6 @@
-I'm Javier 🛰 
+I'm Javier 
 ---
-I'm an Astrophysics at the Universidad Nacional Autonoma de Mexico. I work on detecting 🛰 and measuring the stellar activity of solar-like and low-mass stars ⭐️.
+I'm an Astrophysics at the Universidad Nacional Autonoma de Mexico (UNAM) specializing in stellar activity. I use data from multi-wavelength surveys conducted with ground and space-based telescopes to detect and measure the activity and rotation of Sun-like stars and low-mass stars 🛰 ⭐️.
 
 ### Check out my portfolio of repositories:
 
