@@ -1,6 +1,6 @@
 I'm Javier 
 ---
-I'm a Data Scientist, Software Developer, and Astrophysics at the Universidad Nacional Autonoma de Mexico (UNAM) specializing in stellar activity. I use data from multi-wavelength surveys conducted with ground and space-based telescopes 🛰 to detect and measure the activity and rotation of Sun-like stars and low-mass stars ⭐️.
+I'm a Data Scientist, Software Developer, and Astrophysics at the Universidad Nacional Autónoma de México (UNAM) specializing in stellar activity. I use data from multi-wavelength surveys conducted with ground and space-based telescopes 🛰 to detect and measure the activity and rotation of Sun-like stars and low-mass stars ⭐️.
 
 ### Check out my portfolio of repositories and applications:
 
