@@ -2,7 +2,7 @@ I'm Javier 🛰️₊ ⊹💫
 ---
 **Astrophysicist | Data Scientist | Scientific Software Developer**
 
-I leverage multi-wavelength data from space and ground-based observatories (TESS, SPHEREx, and JWST) to measure stellar rotation and activity, as well as characterize the dust and molecular ice chemistry in protostellar environments.
+I build open-source scientific software and data pipelines to analyze multi-wavelength surveys from space and ground-based observatories (TESS, SPHEREx, JWST). My work focuses on tracing stellar rotation and accretion dynamics, as well as characterizing circumstellar dust and molecular ice chemistry in young stellar environments.
 
 ### Check out my portfolio of repositories and applications:
 
