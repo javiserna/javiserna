@@ -6,7 +6,7 @@ I build open-source scientific software and data pipelines to analyze multi-wave
 
 ### Check out my portfolio of repositories and applications:
 
-![alt text](javiserna/info_card_spherexstack.svg)
+![alt text](info_card_spherexstack.svg)
 
 ### My Stats:
 
